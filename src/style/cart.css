@@ -1,0 +1,17 @@
+#cart-area {
+    display: flex;
+}
+#cart-choices {
+    width: 80vw;
+}
+
+#cart-pricing {
+    width: 20vw;
+}
+.cart-item {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;
+}

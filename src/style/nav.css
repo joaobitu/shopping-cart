@@ -1,0 +1,15 @@
+
+#navigation ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+    align-items: center;
+
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 10vh;
+}
+
+

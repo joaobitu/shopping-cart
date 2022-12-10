@@ -25,5 +25,5 @@ Another tool I used was the create-react-app, that gives me a boilerplate react-
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ## Links
 
-- [Live version](https://joaobitu.github.io/shop)
+- [Live version](https://joaobitu.github.io/shopping-cart)
 - [Project Reference](https://www.theodinproject.com/lessons/node-path-javascript-shopping-cart)
